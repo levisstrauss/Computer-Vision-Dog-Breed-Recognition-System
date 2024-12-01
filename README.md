@@ -18,6 +18,9 @@ accurate image classification.
 scroll down your code. The code is clean, easy to follow and very well commented."<br/>
 — Project Reviewer
 
+## 🔄 Project Workflow
+![Workflow](./img/workflow.png)
+
 ## 🎯 Principal Objectives
    1. Accurately identify dog images vs. non-dog images
    2. Correctly classify dog breeds in dog images
