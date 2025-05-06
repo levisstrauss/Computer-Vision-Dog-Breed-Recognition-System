@@ -12,12 +12,6 @@ accurate image classification.
 
 ![Background](./img/badge.jpg)
 
-## 🌟 Project Highlights
-
-> "The structure of this project implementation is good and worth each 
-scroll down your code. The code is clean, easy to follow and very well commented."<br/>
-— Project Reviewer
-
 ## 🎯 Principal Objectives
    1. Accurately identify dog images vs. non-dog images
    2. Correctly classify dog breeds in dog images
