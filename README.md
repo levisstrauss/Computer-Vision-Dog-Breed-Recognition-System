@@ -84,12 +84,6 @@ pip install torch torchvision pillow
 ```bash
  python check_images.py --dir pet_images/ --arch vgg --dogfile dognames.txt
 ```
-## 📈 Future Improvements
-    ■ Add support for additional CNN architectures
-    ■ Implement real-time image classification
-    ■ Add batch processing for multiple directories
-    ■ Improve visualization of results
-    ■ Add support for more architectures
 
 ## 💫 Recognition
 This project received high praise for its:
