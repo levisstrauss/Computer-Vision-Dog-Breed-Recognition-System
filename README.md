@@ -216,7 +216,7 @@ This project provided valuable insights into several important aspects of deep l
 
 ```bash
 # Clone the repository
-git clone https://github.com/levisstrauss/Dog-Breed-Classification-CNN-Transfer-Learning.git
+git clone https://github.com/levisstrauss/Computer-Vision-Dog-Breed-Recognition-System.git
 cd Dog-Breed-Classification-CNN-Transfer-Learning
 
 # Install dependencies
